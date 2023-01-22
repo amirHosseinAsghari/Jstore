@@ -3,6 +3,6 @@ module com.app.jj {
     requires javafx.fxml;
 
 
-    opens com.app.jj to javafx.fxml;
-    exports com.app.jj;
+    opens com.app.jstore to javafx.fxml;
+    exports com.app.jstore;
 }

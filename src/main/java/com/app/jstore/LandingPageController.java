@@ -1,4 +1,4 @@
-package com.app.jj;
+package com.app.jstore;
 
 public class LandingPageController {
 }
