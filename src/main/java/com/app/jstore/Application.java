@@ -1,5 +1,6 @@
 package com.app.jstore;
 
+import auth.Auth;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
