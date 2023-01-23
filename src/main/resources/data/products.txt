@@ -1,0 +1,3 @@
+productId:productName:productQuantity:productPrice
+1:CD:3:2000
+2:FD:3:3000
